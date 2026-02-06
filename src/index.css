@@ -1,0 +1,27 @@
+:root {
+  font-family: 'Inter', system-ui, sans-serif;
+  line-height: 1.4;
+  font-weight: 400;
+  color-scheme: dark;
+  background-color: #0b0f1a;
+  color: #d7f8ff;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background: radial-gradient(circle at top, rgba(0, 245, 255, 0.08), transparent 55%) #0b0f1a;
+}
+
+#root {
+  min-height: 100vh;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Neon Drift",
+  "short_name": "Neon Drift",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0B0F1A",
+  "theme_color": "#0B0F1A",
+  "description": "One-thumb neon gate dodging with fast sessions.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
